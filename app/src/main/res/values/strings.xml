@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="title">title</string>
+    <string name="content">content</string>
+    <string name="date">date</string>
+    <string name="add">Add</string>
+    <string name="note_added_successfully">Note added successfully</string>
+    <string name="ok">ok</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
